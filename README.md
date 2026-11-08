@@ -9,7 +9,13 @@ and Go, and Claude Code tooling for teams of AI coding agents.
   Scrum sprints for AI coding agent teams. Every role works in its own git worktree, an ownership
   check runs before every commit, and items merge only after green CI and an independent review.
   Runs in Claude Code and Codex CLI. Paid skill on Agensi (referral link).
-  [Benchmark and method](https://github.com/huzairsaputra/lanewright).
+  [Benchmarks and method](https://github.com/huzairsaputra/lanewright): with and without the pack,
+  the readiness gate, and approving "not applicable" Definition-of-Done items, every run's time and
+  cost recorded.
+- **[Lanewright Planning](https://github.com/huzairsaputra/lanewright-planning)**: four free, MIT-licensed
+  agent skills that take loose project input to an SRS, a weekly sprint plan and a human-approved
+  sprint backlog (Intake, SRS, Sprint Planner, Backlog Check). Windows, macOS and Linux, standard
+  library only.
 - **[scrum-kit](https://github.com/huzairsaputra/scrum-kit)**: the free, MIT-licensed Claude Code
   plugin Lanewright grew out of (commands and prompts in Bahasa Indonesia).
 
